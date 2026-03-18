@@ -1,0 +1,15 @@
+QUESTIONS = {
+    "pneumonia": ["No", "Yes"],
+    "edema": ["No", "Yes"],
+    "opacity": ["None", "Mild", "Moderate", "Severe"],
+    "2": ["None", "Mild", "Moderate", "Severe"],
+    "1opacity": ["None", "Mild", "Moderate", "Severe"],
+    "21opacity": ["None", "Mild", "Moderate", "Severe"],
+    "13opacity": ["None", "Mild", "Moderate", "Severe"],
+    "1o4pacity": ["None", "Mild", "Moderate", "Severe"],
+    "1op5acity": ["None", "Mild", "Moderate", "Severe"],
+    "1opa23city": ["None", "Mild", "Moderate", "Severe"],
+    "1opa12city": ["None", "Mild", "Moderate", "Severe"],
+    "1opac9ity": ["None", "Mild", "Moderate", "Severe"],
+    "1opac2ity": ["None", "Mild", "Moderate", "Severe"],
+}
